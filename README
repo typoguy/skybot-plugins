@@ -1,0 +1,9 @@
+Skybot Plugins
+==============
+
+Plugins:
+friendcode.py - Allows users to store their Nintendo Friendcode for easy retrieval.
+
+
+Requirements:
+pip install -r requirements.txt
