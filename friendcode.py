@@ -8,14 +8,13 @@ except Exception as e:
     raise e
 
 # Usage:
-#    .friendcode or .fc will work.
 #
+#    .friendcode or .fc will work:
 #    .fc Displays your friendcode if set.
 #    .fc [code] Sets your friendcode
 #    .fc [nick] Displays the friendcode for another person.
 #
-#    .friendcodedelete or .fcdelete or .fcdel
-#
+#    .friendcodedelete or .fcdelete or .fcdel:
 #    .fcdel Removes your friendcode.
 
 r = re.compile('^\d{4}-\d{4}-\d{4}$')
