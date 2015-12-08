@@ -1,6 +1,9 @@
 Skybot Plugins
 ==============
 
+Skybot IRC Bot:
+https://github.com/rmmh/skybot
+
 Plugins:
 friendcode.py - Allows users to store their Nintendo Friendcode for easy retrieval.
 
